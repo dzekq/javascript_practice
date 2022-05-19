@@ -9,4 +9,4 @@ var svakaPrestupnaGodina = 4;
 var textZaConsolu = ("Dosad je prestupnih godina bilo:");
 var prestupnaGodina = parseInt(unosVrednosti) / parseInt(svakaPrestupnaGodina);
 
-console.log(textZaConsolu + prestupnaGodina)
+console.log(textZaConsolu + prestupnaGodina )
